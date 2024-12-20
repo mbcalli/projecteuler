@@ -1,3 +1,6 @@
+import sys
+sys.path.append('..')
+
 from helper import get_factors
 
 trianges = [1]

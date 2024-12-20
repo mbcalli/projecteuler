@@ -1,3 +1,6 @@
+import sys
+sys.path.append('..')
+
 from helper import get_proper_factors
 
 def is_abundant(n):
